@@ -1,0 +1,59 @@
+body{
+	background:linear-gradient(45deg, #535451, #81827b, #a4a69e);
+}
+	
+header{
+	text-align: center;
+}
+	
+#title{
+	font-weight: bold;
+	font-size: 60px;
+}
+	
+#img-div{
+	background-color: white;
+	margin: 10px 10px 10px 10px;
+}
+
+#image{
+	display:block;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+}
+
+#img-caption{
+	text-align: center;
+}
+	
+#tribute-info{
+	max-width: 550px;
+	margin:auto;
+}
+
+#tribute-info h2{
+	text-align:center;
+}
+
+#tribute-info li{
+	text-align: left;
+	margin:16px 0;
+}
+
+#tribute-quote{
+	text-align: left;
+	margin:0 auto 50px auto;
+	max-width:545px;
+	font-style:italic;
+}
+
+#link-to-tribute{
+	text-align: center;
+	font-weight: bold;
+}
+	
+	
+	
+	
+	
