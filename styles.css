@@ -1,5 +1,5 @@
 body{
-	background:linear-gradient(45deg, #535451, #81827b, #a4a69e);
+	background:linear-gradient(45deg, #302f2e, #7d7b79, #fffdfb);
 }
 	
 header{
@@ -14,6 +14,7 @@ header{
 #img-div{
 	background-color: white;
 	margin: 10px 10px 10px 10px;
+	border-radius:50px;
 }
 
 #image{
@@ -21,6 +22,7 @@ header{
 	max-width: 100%;
 	height: auto;
 	margin: 0 auto;
+	border-radius:50px;
 }
 
 #img-caption{
